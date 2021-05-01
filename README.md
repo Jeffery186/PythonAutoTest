@@ -25,3 +25,11 @@ python Example1.py
 python Example2.py
 ```
 
+------
+
+参考资料：
+
+https://www.selenium.dev/documentation/zh-cn/
+
+https://github.com/SeleniumHQ/selenium
+
