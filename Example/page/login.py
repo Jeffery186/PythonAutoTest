@@ -18,6 +18,8 @@ class LoginPage(Tools):
         self.on_click(self.loginbtn)
 
 # 测试
+'''
 if __name__ == '__main__':
     browser=LoginPage(webdriver.Chrome())
     browser.login('','')
+'''
