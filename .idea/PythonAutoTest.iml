@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Example" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Example/base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytest/Examples" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

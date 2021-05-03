@@ -4,7 +4,8 @@ from selenium import webdriver
 from page.login import LoginPage
 from page.choice import ChoicePage
 
-from ddt import ddt,file_data
+from ddt import ddt, file_data
+
 
 @ddt
 # 必须要继承unittest.TestCase

@@ -7,6 +7,8 @@
           <resourceRoots>
             <path value="file://$PROJECT_DIR$" />
             <path value="file://$PROJECT_DIR$/Example/base" />
+            <path value="file://$PROJECT_DIR$/pytest/Examples/config" />
+            <path value="file://$PROJECT_DIR$/pytest/Examples/base" />
           </resourceRoots>
         </entryData>
       </entry>

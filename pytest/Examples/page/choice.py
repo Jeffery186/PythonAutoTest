@@ -16,6 +16,8 @@ class ChoicePage(Tools):
         self.input(self.search_input, txt_search)
         self.on_click(self.search_btn)
 # 测试
+'''
 if __name__ == '__main__':
     browser = ChoicePage(webdriver.Chrome())
     browser.search('test')
+'''
