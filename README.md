@@ -33,6 +33,14 @@ python Example1.py
 python Example2.py
 ```
 
+## 目录结构
+
+![](https://www.imglink.cc/images/2021/05/03/2129f1a4828af5a9394dafb87a4e80d2.png)
+
+## 生成allure测试报告效果
+
+![](https://www.imglink.cc/images/2021/05/03/6ad2892ce52152b4861e7f54bd93d7ee.png)
+
 ------
 
 参考资料：
@@ -42,3 +50,4 @@ https://www.selenium.dev/documentation/zh-cn/
 https://github.com/SeleniumHQ/selenium
 
 > 自动化测试主要用于回归测试
+
