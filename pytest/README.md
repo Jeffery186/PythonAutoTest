@@ -46,6 +46,10 @@ pytest
 
 ![](https://www.imglink.cc/images/2021/05/03/f34f1e02420eb17a1516890d2be32933.png)
 
+#### allure测试报告
+
+![](https://www.imglink.cc/images/2021/05/03/6ad2892ce52152b4861e7f54bd93d7ee.png)
+
 ## 官方文档
 
 https://docs.pytest.org/
